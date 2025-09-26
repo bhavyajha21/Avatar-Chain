@@ -147,6 +147,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 contact address: 0x112C9a844563465f9D9b3159d69Df1aa399d8a72
-<img width="1440" height="852" alt="Address _ Core Testnet2 Scan - Google Chrome 26-09-2025 14_58_56" src="https://github.com/user-attachments/assets/0582f69c-2e4a-4e01-b0b8-d39d40d90b31" />
 
 screenshot: 
+<img width="1440" height="852" alt="Address _ Core Testnet2 Scan - Google Chrome 26-09-2025 14_58_56" src="https://github.com/user-attachments/assets/0582f69c-2e4a-4e01-b0b8-d39d40d90b31" />
+
+
